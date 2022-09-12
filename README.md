@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseebsaif&label=Views&color=blue&style=plastic&style=for-the-badge" alt="haseebsaif" /> </p>
 
 # 💫 About Me :
-- 😄 Pronouns: He/His
 - 🌱 I’m currently learning more about BlockChain.
 - 💬 Ask me about ReactJS/NodeJs or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
