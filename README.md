@@ -25,7 +25,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=haseebsaif&theme=minimal"/>
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=haseebsaif&theme=github"/>
 </p>
 
 ## 💳 Github Profile Summary Card
